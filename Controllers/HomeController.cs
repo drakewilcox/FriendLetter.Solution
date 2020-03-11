@@ -33,6 +33,11 @@ namespace FriendLetter.Controllers
       myLetterVariable.Souvenirs = souvenirs; 
       return View(myLetterVariable);
     }
+    [Route("/favorite_photos")]
+    public ActionResult FavoritePhotos()
+    {
+      return View();
+    }
 
   }
 }

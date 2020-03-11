@@ -48,3 +48,4 @@
 /Users/Guest/Desktop/FriendLetter.Solution/obj/Debug/netcoreapp2.2/FriendLetter.dll
 /Users/Guest/Desktop/FriendLetter.Solution/obj/Debug/netcoreapp2.2/FriendLetter.pdb
 /Users/Guest/Desktop/FriendLetter.Solution/obj/Debug/netcoreapp2.2/FriendLetter.csproj.CopyComplete
+/Users/Guest/Desktop/FriendLetter.Solution/obj/Debug/netcoreapp2.2/Razor/Views/Home/FavoritePhotos.g.cshtml.cs
